@@ -1,1 +1,1 @@
-MANEJO DE VERSIONAMIENTO
+Esta clase de manejo de version debera aprender de manera obligarotia
