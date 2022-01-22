@@ -3,3 +3,6 @@ Esta clase de manejo de version debera aprender de manera obligarotia
 Author:Willian Quishpe
 
 5° SOFTWARE "A"
+
+
+Axel Quishpe
